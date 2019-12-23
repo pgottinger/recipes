@@ -1,8 +1,8 @@
 # Rezepte
 
-##B
+## B
 * [Bechamel](recipes/bechamel.md)
 * [Bolognese](recipes/bolognese.md)
 
-##L
+## L
 * [Lasagne](recipes/lasagne.md)
