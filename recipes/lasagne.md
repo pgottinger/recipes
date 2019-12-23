@@ -1,6 +1,7 @@
 #Lasagne
 
-=> Bolognese Sauce
+==> [Bolognese Sauce](bolognese.md)
+
 => Bechamel Sauce
 
 * Nudeln mit Bolognese Sauce und Bechamel Sauce abwechselnd schichten
