@@ -22,5 +22,5 @@
 * Tomatenmark und Zucker hinzugeben (ca 1 Minute mit anbraten)
 * Mit Tomaten ablöschen
 * Gewürze dazugeben
-* Aufkochen lassen, danach auf mittlere Hitze 20 Minuten kochen lassen (bei viel Fleisch noch etwas Wasser dazu)
+* Aufkochen lassen, danach auf mittlerer Hitze 20 Minuten kochen lassen (bei viel Fleisch noch etwas Wasser dazu)
 * Abschmecken
