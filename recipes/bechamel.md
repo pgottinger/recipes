@@ -1,6 +1,6 @@
-#Bechamel
+# Bechamel
 
-##Zutaten
+## Zutaten
 * 2 Lorbeerblätter
 * Muskat
 * 1 TL Salz
@@ -9,7 +9,7 @@
 * 50g Mehl
 * 600 ml Milch
 
-##Zubereitung
+## Zubereitung
 * Butter und Mehl im Topf abwiegen
 * Butter zerlaufen lassen und mit Mehl verrühren
 * Wenn sich am Boden ein weißer Film bildet, langsam Milch dazugeben
