@@ -6,3 +6,6 @@
 
 ## L
 * [Lasagne](recipes/lasagne.md)
+
+## W
+* [Weißbiergulasch](recipes/weissbiergulasch.md)
