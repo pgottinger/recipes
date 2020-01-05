@@ -7,5 +7,8 @@
 ## L
 * [Lasagne](recipes/lasagne.md)
 
+## P
+* [Pizza](recipes/pizza.md)
+
 ## W
 * [Weißbiergulasch](recipes/weissbiergulasch.md)
