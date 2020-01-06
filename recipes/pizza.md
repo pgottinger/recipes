@@ -1,5 +1,7 @@
 # Pizza
+
 ---
+
 ## Teig
 ## Zutaten
 * 450g Mehl
@@ -17,7 +19,9 @@
 * Olivenöl dazugeben
 * Teig 7 Minuten auf Stufe 2 kneten lassen
 * Teig mit Olivenöl benetzen und 30 Minuten ruhen lassen
+
 ---
+
 ## Tomatensoße
 ## Zutaten
 * 1 Dose gehackte Tomaten oder Tomatenbasis
