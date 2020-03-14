@@ -4,6 +4,9 @@
 * [Bechamel](recipes/bechamel.md)
 * [Bolognese](recipes/bolognese.md)
 
+## K
+* [Kartoffelsuppe](recipes/kartoffelsuppe.md)
+
 ## L
 * [Lasagne](recipes/lasagne.md)
 
