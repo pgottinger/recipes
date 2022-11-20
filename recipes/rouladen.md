@@ -1,6 +1,6 @@
 # Rouladen
 
-## Zutaten (für 7-8 Personen)
+## Zutaten (für 4 Personen)
 * ca. 6 Rouladen
 * Salami
 * Essiggurken
